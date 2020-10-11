@@ -35,8 +35,8 @@ class i1idan:
 ```
 
 
-[![i1idan's github stats](https://github-readme-stats.vercel.app/api?username=i1idan&theme=dark)](https://github.com/i1idan/github-readme-stats)
+[![i1idan's github stats](https://github-readme-stats.vercel.app/api?username=i1idan)](https://github.com/i1idan/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i1idan&hide=jupyter%20notebook&layout=compact&theme=dark)](https://github.com/i1idan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i1idan&hide=jupyter%20notebook)](https://github.com/i1idan/github-readme-stats)
 
