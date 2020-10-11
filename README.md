@@ -3,31 +3,32 @@
 class i1idan:
     """
     Hey there i'm Maryam,
-    I currently work as a Machine Learning Developer at Vosouq.
-    I’m currently working on Facial Verification Systems and Cognitive Sciences.
-    I’m currently learning Low Level Deep Learning and System Administration.
+    I currently work as a Machine Learning Developer at None.
+    I’m currently working on None.
+    I’m currently learning None.
     """
     def __init__(self):
         self.username = 'i1idan'
         self.name = 'Maryam Saeedi'
-        self.email = 'a-saeedi@srbiau.ac.ir'
+        self.email = 'maryam.saidi33@gmaul.com'
         self.scholar = 'http://scholar.google.com/citations?user=ef3H4RAAAAAJ&hl=en'
-        self.linkedin = 'https://ir.linkedin.com/in/abdolkarim-saeedi-7b0699194'
-        self.researchgate = 'https://www.researchgate.net/profile/Abdolkarim_Saeedi'
-        self.kaggle = 'https://www.kaggle.com/kiljaeden'
+        self.linkedin = 'https://ir.linkedin.com/in/maryam-saeedi-7b0699194'
+        self.researchgate = 'https://www.researchgate.net/profile/Maryam_Saeedi'
+        self.kaggle = 'https://www.kaggle.com/i1idan'
         self.interests = ['Artificial Intelligence', 'Computer Vision',
                           'Signal Processing', 'Cognitive Sciences']
         self.skills = {
-            'ai': ['TensorFlow', 'Keras', 'Mxnet', 'Gluon', 'd2l', 'PyTorch',
-                   'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost', 'XGBoost',
-                   'Matlab', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'OpenVINO'],
-            'vision': ['OpenCV', 'Dlib', 'Skimage'],
+            'ai': ['TensorFlow', 'Keras', 'Mxnet',
+                    'Autokeras', 'Sklearn', 'LightGBM',
+                    'CatBoost', 'XGBoost',
+                    'Matlab', 'cuDNN', 'CUDA'],
+            'vision': ['OpenCV'],
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn'],
-            'frontend': ['HTML', 'CSS', 'JavaScript'],
-            'backend': ['Flask', 'Django', 'FastAPI'],
-            'database': ['MySQL', 'SQLite3', 'MongoDB'],
-            'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
-            'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook'],
+            'frontend': ['HTML', 'CSS'],
+            'backend': ['Flask', 'Django'],
+            'database': ['MySQL', 'SQLite3'],
+            'devops': ['ngrok'],
+            'tools': ['git', 'Jupyter notebook'],
             'misc': ['bash', 'GNU/Linux', 'ARM'],
         }
 
