@@ -2,13 +2,13 @@
 ```python
 class i1idan:
     """
-    Hey there i'm i1idan,
+    Hey there i'm maryam saeedi,
  
     """
     def __init__(self):
         self.username = 'i1idan'
         self.name = 'i1idan '
-        self.email = 'i1idan.salvatore@gmail.com'
+        self.email = 'maryam.saeedi33@gmail.com'
         self.scholar = 'https://scholar.google.com/citations?user=M7RO3xAAAAAJ&hl=en'
         self.kaggle = 'https://www.kaggle.com/i1idan'
         self.interests = ['Artificial Intelligence', 'Computer Vision',
