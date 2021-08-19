@@ -2,7 +2,7 @@
 ```python
 class i1idan:
     """
-    Hey there i'm maryam saeedi,
+    Hey there i'm illidan,
  
     """
     def __init__(self):
