@@ -7,8 +7,8 @@ class i1idan:
     """
     def __init__(self):
         self.username = 'i1idan'
-        self.name = 'i1idan '
-        self.email = '!@gmail.com'
+        self.name = 'Maryam Saeedi '
+        self.email = 'maryam.saeedi33@gmail.com'
         self.scholar = 'https://scholar.google.com/citations?user=M7RO3xAAAAAJ&hll=en'
         self.kaggle = 'https://www.kaggle.com/i1idan'
         self.interests = ['Artificial Intelligence', 'Computer Vision',
@@ -20,10 +20,10 @@ class i1idan:
                     'Matlab', 'cuDNN'],
             'vision': ['OpenCV'],
             'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn'],
-            'frontend': ['HTML', 'CSS'],
-            'backend': ['Flask', 'Django'],
-            'database': ['MySQL', 'SQLite3'],
-            'devops': ['ngrok'],
+            'frontend': ['HTML', 'CSS', 'JS'],
+            'backend': ['Flask', 'Django', 'FastAPI']
+            'database': ['MySQL', 'SQLite3', 'Redis'],
+            'devops': ['ngrok', 'Docker', 'Nginx'],
             'tools': ['git', 'Jupyter notebook'],
             'misc': ['bash', 'GNU/Linux', 'ARM'],
         }
